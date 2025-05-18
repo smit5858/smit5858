@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smit5858
   
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web/App Development
 - 🌱 I’m currently learning MERN Stack (MongoDB, Express, React, Node.js)
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
 - 📫 How to reach me:  You can contact me via [email: sdholariya58@gmail.com].
